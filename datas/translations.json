@@ -1,0 +1,14 @@
+{
+    "fr": {
+        "if_mentionned": "{}, le préfixe actuel est `{}`.",
+        "prefix": "Le préfixe du serveur est maintenant `{}`.",
+        "language_error": "Erreur : Réessaie avec `{}language {}`.",
+        "language": "Le language du serveur a bien été changé par `{}`."
+    },
+    "en": {
+        "if_mentionned": "{}, actual prefix is `{}`.",
+        "prefix": "Server's prefix is now `{}`.",
+        "language_error": "Error: Retry with `{}language {}`.",
+        "language": "Language successfully changed by `{}`."
+    }
+}
